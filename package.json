@@ -1,0 +1,18 @@
+{
+  "name": "crud-application",
+  "version": "1.0.0",
+  "description": "CRUD Application",
+  "license": "ISC",
+  "author": "Dennes Mwangi Njoroge",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "nodemon": "^3.1.11"
+  }
+}
