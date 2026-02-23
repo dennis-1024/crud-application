@@ -1,3 +1,6 @@
 node_modules/
 .env
 .gitattributes
+js_functions.js
+async.js
+file.txt
